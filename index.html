@@ -1,0 +1,109 @@
+    <!DOCTYPE HTML>
+<html lang="es">
+
+<head>
+        <style>
+                @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+                @import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+                @import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed&display=swap');
+                </style> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>VBE Designs</title>
+    <link rel="icon" type="image/png" href="Media/favicon.png" />
+    <!-- Metadatos genéricos -->
+    <meta name="description" content="Portafolio vicuña, becerra, escovedo.">
+    <meta name="image" content="Media/imagen.png">
+    <!-- Metadatos Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="VBE Designs">
+    <meta name="twitter:description" content="Portafolio vicuña, becerra, escovedo.">
+    <meta name="twitter:image:src" content="Media/imagen.png">
+    <!-- Metadatos Open Graph (Facebook, Pinterest & LinkedIn) -->
+    <meta name="og:title" content="título de la página">
+    <meta name="og:description" content="Portafolio vicuña, becerra, escovedo.">
+    <meta name="og:image" content="Media/imagen.png">
+    <meta name="og:type" content="website">
+    <!-- Ahora vinculamos el estilo -->
+    <link rel="stylesheet" href="estilo.css" type="text/css">
+    
+</head>
+
+<body>
+    <header>
+        <section id = "nombresH">
+            <h5 id="letraV">V&nbsp;</h5>
+            
+            <h5 id = "letraB">B&nbsp;</h5>
+            
+            <h5 id = "letraE">E</h5>
+            
+        </section>
+        <h2> Diseñadores integrales  </h2>
+        
+    </header>
+    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <source src="Media/video.mp4" type="video/mp4">
+        <source src="Media/video.webm" type="video/webm">
+    </video>
+    
+    <div class = "integrantes">
+        <h3>Contacto Integrantes</h3>
+        <section class = imagenIntegrante1 onclick="location.href='mailto:pbescovedo@uc.cl';">
+                 <h3><address><a href="javascript: void(0)"></a> pbescovedo@uc.cl</address></h3>
+        </section>
+        
+        <section class = imagenIntegrante2 onclick="location.href='mailto:babecerra@uc.cl';">
+            <h3><address><a href="javascript: void(0)"></a>babecerra@uc.cl</address></h3>
+        </section>
+
+        <section class = imagenIntegrante3 onclick="location.href='mailto:favicuna@uc.cl';">
+            <h3><address><a href="javascript: void(0)"></a>favicuna@uc.cl</address></h3>
+        </section>
+
+
+
+        <section id="portafolio">
+                <h3>Nuestros trabajos</h3>
+                
+                
+                    
+                    
+
+                
+                
+                
+                
+                <!--acá se colocan y organizan las cosas con programación-->
+        </section>
+    
+    </div>
+
+
+    
+    
+    
+    
+    <footer> 
+        <p>Procesos de Producción · sección web · segundo semestre · 2019</p>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js"></script>
+    <script>
+        window.onload = function() {
+            var container = document.querySelector('#portafolio');
+            var msnry = new Masonry(portafolio, {
+                itemSelector: '.item'
+            });
+        };
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="portafolio.js"></script>
+    
+     
+    
+   
+    
+</body>
+
+
+</html>
