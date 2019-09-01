@@ -1,6 +1,6 @@
  var trabajos = [{
      figure: "media/Benja1.jpg",
-     alt: "Descripción de la imagen",
+     alt: "Lemures en dispositivo de enriquecimiento ambiental consistente en plataformas de madera que poseen aplicaciones de corteza para mejor agarre.",
      title: "ZOOM",
      about: "Dispositivo de enriquecimiento ambiental para lémures a partir del estudio de su ecología en PARQUEMET.",
      color_letra: "white",
@@ -32,14 +32,14 @@
      color_fondo: "#2d23ea",
  }, {
      figure: "media/Benja2.jpg",
-     alt: "Descripción de la imagen",
+     alt: "Espalda de un joven con casco y polera blanca que posee un logo que dice CANVAS.",
      title: "CANVAS",
      about: "Producto de indumentaria con textil de memoria inteligente para BMX.",
      color_letra: "white",
      color_fondo: "#8100ea",
  }, {
      figure: "media/Vicu1.jpg",
-     alt: "Descripción de la imagen",
+     alt: "Góndola de supermercado en dond al centro se ubican PEPS, unos potes de colores amarillo, rojo, verde y azul",
      title: "PEPS: Prepara, Emplata, Porciona",
      about: "Sistema lúdico de organización para la comida de los niños marca ILKO, con el fin de promover una alimentación porcionada y la participación de los mismos en la preparación.",
      color_letra: "white",
