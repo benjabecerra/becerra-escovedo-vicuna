@@ -187,7 +187,7 @@ main{
     transition: all 0.2s ease;
     background-color: rgb(215,153,156);
     opacity: 100%;
-    background-image:url('Media/portada_pau.png');
+    background-image:url('media/portada_pau.png');
     background-position: center;
     background-size: 100% 100%;
     padding-top: 15%;
@@ -199,7 +199,7 @@ main{
 .imagenIntegrante1:hover{
     background-color:#f49595;
     background-position: left, center, right;
-    background-image:url('Media/PaulaFoto.jpg' ),url('Media/centropaula.jpg'),url('Media/fortalezaspaula.jpg');
+    background-image:url('media/PaulaFoto.jpg' ),url('media/centropaula.jpg'),url('media/fortalezaspaula.jpg');
     opacity: 0%;
     padding-top: 15%;
     background-repeat: no-repeat;
@@ -209,7 +209,7 @@ main{
 .imagenIntegrante2{
     transition: all 0.2s ease;
     background-color: #8100ea;
-    background-image:url('Media/portada_benjita.png');
+    background-image:url('media/portada_benjita.png');
     background-size: 100% 100%;
     padding-top: 15%;
     text-align: center;
@@ -220,7 +220,7 @@ main{
 .imagenIntegrante2:hover{
     background-color:#8100ea;
     background-position: left, center, right;
-    background-image:url('Media/benjanombre.jpg' ),url('Media/centrobenja.jpg'),url('Media/fortalezasbenja.jpg');
+    background-image:url('media/benjanombre.jpg' ),url('media/centrobenja.jpg'),url('media/fortalezasbenja.jpg');
     padding-top: 15%;
     background-repeat: no-repeat;
     background-size:  20% 100%;
@@ -228,7 +228,7 @@ main{
 .imagenIntegrante3{
     transition: all 0.2s ease;
     background-color: #2d23ea;
-    background-image:url('Media/portada_florencia.jpg');
+    background-image:url('media/portada_florencia.jpg');
     background-size: 100% 100%;
     padding-top: 15%;
     text-align: center;
@@ -239,7 +239,7 @@ main{
 .imagenIntegrante3:hover{
     background-color:#2d23ea;
     background-position: left, center, right;
-    background-image:url('Media/vicunombre.jpg' ),url('Media/centrovicu.jpg'),url('Media/fortalezasvicu.jpg');
+    background-image:url('media/vicunombre.jpg' ),url('media/centrovicu.jpg'),url('media/fortalezasvicu.jpg');
     padding-top: 15%;
     background-repeat: no-repeat;
     background-size:  20% 100%;

@@ -5,8 +5,8 @@
      about: "Texto simulado de descripción de primer trabajo",
      color_letra: "white",
      color_fondo: "#8100ea",
-     
-     
+
+
 
  }, {
      figure: "media/Vicu4.jpg",
@@ -15,7 +15,7 @@
      about: "Texto simulado de descripción de segundo trabajo",
      color_letra: "white",
      color_fondo: "#2d23ea",
-     
+
  }, {
      figure: "media/Paula1.jpg",
      alt: "Descripción de la imagen",
@@ -51,7 +51,7 @@
      about: "Texto simulado de descripción de séptimo trabajo",
      color_letra: "Black",
      color_fondo: "#f49595",
-     
+
  },
  {
     figure: "media/Paula3.jpg",
@@ -83,7 +83,7 @@
     about: "Texto simulado de descripción de séptimo trabajo",
     color_letra: "Black",
      color_fondo: "#f49595",
-    
+
 }
 
 ];
@@ -94,7 +94,3 @@
      var tres = '<p><font color= ' + trabajos[i].color_letra+'>' + trabajos[i].about + '</font></p>';
      $('#portafolio').append('<div class="item" style = "background-color: '+trabajos[i].color_fondo+'" >' + uno + dos + tres + '</div>')
  });
-
- 
-
-
