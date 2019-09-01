@@ -1,8 +1,8 @@
  var trabajos = [{
      figure: "media/Benja1.jpg",
      alt: "Descripción de la imagen",
-     title: "Título de pjAJAjajAajjAJAAJrimer trabajo",
-     about: "Texto simulado de descripción de primer trabajo",
+     title: "ZOOM",
+     about: "Dispositivo de enriquecimiento ambiental para lémures a partir del estudio de su ecología en PARQUEMET.",
      color_letra: "white",
      color_fondo: "#8100ea",
 
@@ -33,8 +33,8 @@
  }, {
      figure: "media/Benja2.jpg",
      alt: "Descripción de la imagen",
-     title: "Título de quinto trabajo",
-     about: "Texto simulado de descripción de quinto trabajo",
+     title: "CANVAS",
+     about: "Producto de indumentaria con textil de memoria inteligente para BMX.",
      color_letra: "white",
      color_fondo: "#8100ea",
  }, {
@@ -64,15 +64,15 @@
 {
     figure: "media/Benja3.jpg",
     alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
-    about: "Texto simulado de descripción de séptimo trabajo",
+    title: "CAPULLO",
+    about: "Producto textil diseñado para madres lactantes y lo que conlleva esta interacción en público.",
     color_letra: "white",
      color_fondo: "#8100ea",
 },{
     figure: "media/Benja4.jpg",
     alt: "Descripción de la imagen",
-    title: "Título de séptimo trabajo",
-    about: "Texto simulado de descripción de séptimo trabajo",
+    title: "PLEGO",
+    about: "Protección contra la lluvia para sillas de ruedas de auto implementación fabricado a partir de tela PVC reutilizada.",
     color_letra: "white",
      color_fondo: "#8100ea",
 }
